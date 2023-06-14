@@ -163,3 +163,18 @@ footer{
   
   color: tomato;
 }
+.fourth-site-section{
+  display: flex;
+  padding-bottom: 100px;
+}
+.fourth-site-div-1{
+  padding-left: 110px;
+  margin-right: 100px;
+}
+.fourth-site-h1{
+  font-size: 50px;
+}
+.fourth-site-p{
+  color: gray;
+  padding-bottom: 35px;
+}
