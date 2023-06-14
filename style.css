@@ -108,6 +108,7 @@ hr{
   font-size: 21px;
   padding-left: 300px;
   padding-right: 300px;
+  margin-bottom: 45px;
 }
 .third-site-div{
   display: flex;
@@ -123,7 +124,7 @@ hr{
   padding-left: 20px;
   padding-right: 20px;
   border-radius: 10px;
-  
+  padding-bottom: 25px;
 }
 .third-site-h2{
   font-size: 25px;
@@ -140,6 +141,7 @@ hr{
   padding-right: 35px;
   border-radius: 10px;
   margin-left: 25px;
+  padding-bottom: 25px;
 }
 .third-site-div-4{
   background-image: url(Frame-1.png);
@@ -152,6 +154,10 @@ hr{
   padding-left: 20px;
   padding-right: 35px;
   border-radius: 10px;
+  padding-bottom: 25px;
+}
+.third-site-p-2{
+  color: gray;
 }
 footer{
   color: lightgray;
@@ -178,3 +184,44 @@ footer{
   color: gray;
   padding-bottom: 35px;
 }
+.fifth-site-section{
+  text-align: center;
+}
+.fifth-site-h1{
+  font-size: 50px;
+}
+.fifth-site-p-1{
+  padding-left: 350px;
+  padding-right: 350px;
+  color: gray;
+}
+.fifth-site-div-2{
+  display:flex;
+  padding: 55px;
+  background-color: rgb(255, 229, 224);
+  margin-left: 330px;
+  margin-right: 310px;
+  margin-bottom: 150px;
+  margin-top: 50px;
+  
+}
+.fifth-site-p-2{
+  margin-left: 100px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: lightgray;
+  padding-left: 20px;
+  padding-right: 200px;
+  border-radius: 5px;
+  color: gray;
+}
+.fifth-site-p-3{
+  color: white;
+  background-color: rgb(255, 85, 55);
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
